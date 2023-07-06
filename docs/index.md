@@ -1,15 +1,12 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Seth Wilding's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
+# Seth Wilding
+A dependable computer science student with experience in a variety of programming languages. Offering strong leadership, problem solving abilities, and a desire to learn. Works and communicates well with others and has an interest in creating and supporting great products.
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/seth-wilding/">LinkedIn</a>
+| <a href="https://github.com/SAWilding">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->

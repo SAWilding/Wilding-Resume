@@ -16,7 +16,8 @@ A dependable computer science student with experience in a variety of programmin
 `2020-2023`
 __BYU - Idaho__, Rexburg, Id
 
-- Full academic scholarship with 3.9 GPA
+- 3.9 GPA
+- Thomas E. Ricks Full Tuition Scholarship
 
 ## Related Experience
 
@@ -25,10 +26,10 @@ __BYU - Idaho__, Rexburg, Id
 `January 2023 - Current`
 __Software Engineer Intern__, Colorado Springs, Co
 
--	Acquired secret level security clearance to work on government classified projects
+-	Acquired secret-level security clearance to work on government-classified projects
 - Delivered software features every two weeks using the Agile Scrum development model
 - Implemented features on large-scale, object-oriented programs written in both C++ and Java following strict coding standards
-- Collaborated in a team of 9 other developers to accomplish challenging coding tasks and complete peer reviews
+- Collaborated with a team of 9 other developers to accomplish challenging coding tasks and complete peer reviews
 
 
 ## Service and Work History
